@@ -48,6 +48,9 @@ button:disabled{
   cursor: default;
   filter: brightness(30%);
 }
+audio{
+  display: none;
+}
 
 /* Media Query: Tablet or Smaller */
 @media screen and (max-width:1000px){
